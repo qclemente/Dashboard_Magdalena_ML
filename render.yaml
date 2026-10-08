@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: dashboard-magdalena
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn --chdir src app:server
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.9.23"

@@ -1,0 +1,11 @@
+Variable,AUC univariado
+dist_qef_rel,0.9328
+dist_qef,0.9328
+calamar_cuad,0.8892
+calamar_lag1,0.8847
+dist_qef_lag7,0.8844
+calamar_lag2,0.8799
+calamar_lag3,0.8751
+calamar_media7,0.8708
+coyongal_t7,0.8668
+calamar_lag5,0.8651

@@ -1,0 +1,4 @@
+modelo,accuracy,precision,recall,f1,roc_auc,pr_auc
+Dummy,0.7514,0.0,0.0,0.0,0.5,0.2486
+Persistencia,0.8826,0.7639,0.7639,0.7639,0.8429,0.6423
+Regresión logística,0.882,0.6947,0.937,0.7979,0.9588,0.8718

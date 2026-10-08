@@ -1,0 +1,6 @@
+Horizonte (días),Accuracy modelo,Accuracy persistencia,Accuracy dummy,PR-AUC modelo,PR-AUC persistencia
+1,0.982,0.989,0.752,0.996,0.962
+7,0.932,0.939,0.752,0.955,0.801
+15,0.882,0.883,0.751,0.872,0.642
+30,0.766,0.79,0.751,0.629,0.439
+60,0.701,0.657,0.75,0.483,0.271
